@@ -1,0 +1,19 @@
+
+
+done - terapkan klik pada buku yang ada di box, toggleClass active
+
+done - ketika klik koleksi buku baru, text new collection akan berubah menjadi tambah koleksi baru
+
+done - ketika klik input field koleksi buku baru, saat focus di field, beri toggleClass pada input-field dan label akan berwarna lebih pekat
+
+done - saat hover collection dan read, tunggu animasi svg selesai lalu display none kan svg nya
+
+done - perbaiki tombol kembalikan, saat tempat drop book penuh, tampilkan error saat meletakkan ke tempat yang penuh tersebut, juga tombol put in the box
+
+done - perbaiki drop ke table, ketika buku di table di drag, arahkan ke tempat drop lain namun langsung dikembalikan ke drop table (masih saat dragging), tombol ter disabled
+
+done - tambah fitur pemberitahuan jumlah buku yang ada pada temapt drop Books
+
+done - hilangkan toast setelah statement 193 dieksekusi
+
+done - memberikan fungsi drag kepada element yang baru ditambahkan
