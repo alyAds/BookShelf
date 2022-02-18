@@ -157,11 +157,12 @@ section {
     position: absolute;
     top: 5%;
     right: 50%;
-    transform: translate(575%, 0%);
+    transform: translate(530%, 20%);
     width: 50px;
     height: 50px;
     border-radius: 50%;
     background: #fff;
+    z-index: 10;
     display: flex;
     align-items: center;
     justify-content: center;
